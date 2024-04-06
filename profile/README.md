@@ -11,8 +11,8 @@
 
 [twitter]: https://twitter.com/leetmorph
 [linkedIn]: https://www.linkedin.com/in/leetmorph-technology-23aa9a2b9
-[Instagram]: #
-[Facebook]: #
+[Instagram]: https://www.instagram.com/leetmorph/
+[Facebook]: https://www.facebook.com/profile.php?id=61558036745044
 [leetmorph-youtube]: www.youtube.com/@LeetmorphTechnology 
 
 </div>
