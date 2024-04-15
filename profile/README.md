@@ -1,4 +1,6 @@
-<p align="center"><img src="./assets/leetmorph_logo.png" width="auto" height="180"/></p>
+<p align="center">
+  <img src="https://i.ibb.co/mTpbhRM/leetmorph-logo.png" width="auto" height="200"/>
+</p>
 
 <h3 align="center">Leetmorph Technology Pvt. Ltd.</h3>
 <h4 align="center">🚀 Redefining the Better: Navigate Success with Us.</h4>
