@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200" height="200"/></p>
+<p align="center"><img src="./assets/leetmorph_logo.png" width="auto" height="180"/></p>
 
 <h3 align="center">Leetmorph Technology Pvt. Ltd.</h3>
 <h4 align="center">🚀 Redefining the Better: Navigate Success with Us.</h4>
